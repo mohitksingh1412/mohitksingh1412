@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohit-singh-csemnit/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=Z_fOCm8AAAAJ&hl=en">
